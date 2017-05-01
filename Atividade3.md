@@ -1,6 +1,6 @@
 # Atividade 3
 
-###O que é o Docker?
+### O que é o Docker?
 
 Para a instalação do docker no ubuntu 17.04 segue os passos:
 
